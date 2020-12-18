@@ -1,0 +1,13 @@
+.calendar-body {
+    display: flex;
+    flex-direction: column;
+    background-color: #f7f5f5;
+}
+
+.calendar-body .calendar-body-sunday {
+    color: firebrick;
+}
+
+.calendar-body .calendar-body-saturday {
+    color: cornflowerblue;
+}

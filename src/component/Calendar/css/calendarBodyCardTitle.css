@@ -1,0 +1,12 @@
+.calendar-body .calendar-body-cards .calendar-body-card .calendar-body-card-title {
+    display: inherit;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0.5vmax 0;
+    padding: 0 0.6vmin;
+    height: 3vmax;
+}
+
+.calendar-body .calendar-body-cards .calendar-body-card .calendar-body-card-title .calendar-body-card-title-name {
+    font-size: 0.4rem;
+}
