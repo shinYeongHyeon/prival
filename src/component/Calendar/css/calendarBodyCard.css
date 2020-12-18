@@ -1,0 +1,6 @@
+.calendar-body .calendar-body-cards .calendar-body-card {
+    display: inherit;
+    flex-direction: column;
+    flex: 1;
+    height: 20vmax;
+}

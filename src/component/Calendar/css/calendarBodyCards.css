@@ -1,0 +1,4 @@
+.calendar-body .calendar-body-cards {
+    display: inherit;
+    flex-direction: column;
+}

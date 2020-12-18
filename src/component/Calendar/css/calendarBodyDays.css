@@ -1,0 +1,12 @@
+.calendar-body .calendar-body-days {
+    display: inherit;
+    justify-content: flex-start;
+    flex: 1;
+}
+
+.calendar-body .calendar-body-days .calendar-body-day {
+    display: inherit;
+    justify-content: center;
+    flex: 1;
+    font-size: small;
+}
